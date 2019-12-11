@@ -1,0 +1,6 @@
+spring:
+  cloud:
+    stream:
+      bindings:
+        fraud-input:
+          destination: fraud
